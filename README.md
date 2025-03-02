@@ -1,7 +1,7 @@
 # Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI 🔥🔥
 
 
-![sensai](https://github.com/rishav-raushan/AI-Coach-DEVSENSAI/blob/main/readmebanner.png)
+![devsensai](https://github.com/rishav-raushan/AI-Coach-DEVSENSAI/blob/main/readmebanner.png)
 
 # DEVSENSAI - AI-Powered Career Coaching Platform
 
@@ -29,7 +29,7 @@ DEVSENSAI is an AI-powered career coaching platform that helps users streamline 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/DEVSENSAI.git
+git clone https://github.com/rishav-raushan/AI-Coach-DEVSENSAI
 cd DEVSENSAI
 ```
 
@@ -83,5 +83,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 This project is licensed under the MIT License.
 
 ## Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](#)
+- **LinkedIn:** [Rishav Raushan LinkedIn](https://www.linkedin.com/in/rishav-raushan1/)
+- **GitHub:** [Rishav Raushan Github](https://github.com/rishav-raushan)
