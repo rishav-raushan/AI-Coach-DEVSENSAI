@@ -30,7 +30,7 @@ DEVSENSAI is an AI-powered career coaching platform that helps users streamline 
 ### Clone the Repository
 ```bash
 git clone https://github.com/rishav-raushan/AI-Coach-DEVSENSAI
-cd DEVSENSAI
+cd AI-Coach-DEVSENSAI
 ```
 
 ### Install Dependencies
